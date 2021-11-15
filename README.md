@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 About me: Threat Hunting | Detection Engineer | SOC Analyst
+
+- 📫 You can also find me on [Twitter](https://twitter.com/olafhartong).
+
+<p align="center">
+    <a href="https://twitter.com/M0ofeng"><img src="https://img.shields.io/twitter/follow/M0ofeng?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=53B1A8"></a>
+    <a href="https://github.com/Moofeng"><img src="https://img.shields.io/github/followers/Moofeng?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=53B1A8"></a>
+</p>
+
 <!--
 **Moofeng/Moofeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
