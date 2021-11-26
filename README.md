@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://github.com/Moofeng/Moofeng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moofeng&hide_title=false&exclude_repo=olafhartong.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moofeng&hide_title=false&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff"/>
 </a>
 </p>
 
