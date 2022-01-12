@@ -15,6 +15,7 @@
 - 🔭 I'm currently working as a **SOC analyst**.
 - 👯 I’m looking to collaborate on anything related to **Threat Hunting, Detection Engineering and DIFR**.
 - 📫 If you wanna reach out and discuss stuff. I'm on [**Twitter**](https://twitter.com/M0ofeng).
+- ✍️ I maintian a blog at https://blog.moofeng.cn/.
 
 <p align="center">
     <a href="https://twitter.com/M0ofeng"><img src="https://img.shields.io/twitter/follow/M0ofeng?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=53B1A8"></a>
